@@ -6,7 +6,9 @@ This fork aims to block most Microsoft sites while keeping GitHub operational, m
 2. Click "Add Blocklist"
 3. Click "Add a custom list"
 4. Name it whatever you want, in "Enter a URL..." paste the following:
-5. '''https://raw.githubusercontent.com/Anrarry/Microslop/refs/heads/main/Microsoft%20Domains.txt'''
+```text
+https://raw.githubusercontent.com/Anrarry/Microslop/refs/heads/main/Microsoft%20Domains.txt
+```
 6. Click "Save" and you are good to go!
 
 
