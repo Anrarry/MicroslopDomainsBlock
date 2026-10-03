@@ -1,3 +1,17 @@
+# I am not the creator of this list, all credit goes to the creators of [this](https://github.com/HotCakeX/MicrosoftDomains) reposity.
+
+This fork aims to block most Microsoft sites while keeping GitHub operational, made with the idea of AdGuard in mind. To add it to your AdGuard DNS blocklist, do the following:
+
+1. Go to Filters -> DNS blocklists
+2. Click "Add Blocklist"
+3. Click "Add a custom list"
+4. Name it whatever you want, in "Enter a URL..." paste the following:
+5. '''https://raw.githubusercontent.com/Anrarry/Microslop/refs/heads/main/Microsoft%20Domains.txt'''
+6. Click "Save" and you are good to go!
+
+
+# ORIGINAL README.MD BELOW
+---
 # Microsoft Domains
 
 This repository lists all active Microsoft root domains, no URLs and no sub-domains, **for the purpose of Whitelisting** in various systems and apps.
