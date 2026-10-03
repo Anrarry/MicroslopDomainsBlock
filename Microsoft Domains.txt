@@ -7,7 +7,6 @@ powerapps.com
 akamaized.net
 nelreports.net
 vscode-cdn.net
-github.dev
 docs.com
 msft.com
 s-msft.com
@@ -93,7 +92,6 @@ seaofthieves.com
 skype.com
 azure.com
 bing.com
-github.com
 live.com
 microsoftonline.com
 microsoft.com
@@ -135,13 +133,10 @@ outlookmobile.com
 microsoftstream.com
 msocsp.com
 footprintdns.com
-githubassets.com
 exp-tas.com
 vsmarketplacebadges.dev
 hockeyapp.net
 vsassets.io
-githubnext.com
-githubusercontent.com
 groupme.com
 licdn.com
 task.ms
@@ -217,7 +212,6 @@ sharepoint-mil.us
 botframework.com
 mshome.net
 officeppe.com
-github.io
 dc-msedge.net
 bingforbusiness.com
 cbecloud.com
@@ -275,8 +269,6 @@ playfab.com
 microsoft.design
 fluentui.dev
 1drv.ms
-github.blog
-githubstatus.com
 vscode-unpkg.net
 staging-bing-int.com
 bingplaces.com
@@ -300,7 +292,6 @@ mgt.dev
 wbd.ms
 whiteboard.ms
 playwright.dev
-githubcopilot.com
 translatoruser.net
 nuget.info
 azconfig.io
@@ -318,7 +309,6 @@ spov-msedge.net
 blz-contentstack.com
 activisionblizzard.com
 demonware.net
-github.community
 ghcr.io
 bizographics.com
 licdn.cn
@@ -348,7 +338,6 @@ midasplayer.cloud
 treyarch.com
 sledgehammergames.com
 callofdutyleague.com
-githubapp.com
 microsoft-ppe.com
 azure-intapp.net
 dynamicsonline.com
