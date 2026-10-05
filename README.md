@@ -1,11 +1,12 @@
 # I am not the creator of this list, all credit goes to the creators of [this](https://github.com/HotCakeX/MicrosoftDomains) reposity.
 
-This fork aims to block most Microsoft sites while keeping GitHub operational, made with the idea of AdGuard in mind. To add it to your AdGuard DNS blocklist, do the following:
+This fork aims to block most Microsoft sites while keeping GitHub operational, made with the idea of AdGuard Home in mind. To add it to your AdGuard Home DNS blocklist, do the following:
 
-1. Go to Filters -> DNS blocklists
-2. Click "Add Blocklist"
-3. Click "Add a custom list"
-4. Name it whatever you want, in "Enter a URL..." paste the following:
+1. Open your AdGuard Home dashboard.
+2. Go to Filters -> DNS blocklists
+3. Click "Add Blocklist"
+4. Click "Add a custom list"
+5. Name it whatever you want, in "Enter a URL..." paste the following:
 ```text
 https://raw.githubusercontent.com/Anrarry/MicroslopDomainsBlock/refs/heads/main/Microsoft%20Domains.txt
 ```
