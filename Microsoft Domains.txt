@@ -1,3 +1,6 @@
+*.microsoft.com
+*.microsoft.*
+microsoft.*
 b2clogin.com
 msftauth.net
 skypeforbusiness.com
